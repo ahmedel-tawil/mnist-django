@@ -1,6 +1,6 @@
 # mnist-django
 CNN model to classify the hand written digits, with Django 
-<img src="mnist-django/test.png" />
+<img src="/test.png" />
 
 ### Prerequistes
 1. Django + 4.0
